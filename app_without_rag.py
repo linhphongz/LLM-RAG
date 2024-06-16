@@ -75,7 +75,6 @@ def chat_interface(session_key, chat_history_key, function_title):
                 tmp_str  = tmp_str + char
                 time.sleep(0.01)  # Thời gian delay giữa các ký tự
                 typing_placeholder.markdown(tmp_str)
-            st.markdown(gemini_response.text)
 
 
 # Main program
