@@ -3,6 +3,7 @@
 ## Giới thiệu
 
 LLM-RAG (Language Learning Model - Retrieval-Augmented Generation) là một dự án tích hợp các kỹ thuật truy vấn và tổng hợp để cải thiện hiệu quả của các mô hình ngôn ngữ lớn (LLM) trong việc trả lời câu hỏi và tìm kiếm thông tin. Dự án này tập trung vào xây dựng một chatbot du lịch với các chức năng phản hồi về địa điểm, ẩm thực, tư vấn, cẩm nang, thời tiết và giao thông.
+⚠️ File gemini_rag.py: Việc xây dựng model LLM với cấu trúc RAG bằng framework LANGCHAIN vẫn có khả năng tìm kiếm và truy xuất thông tin dựa trên vector database nhưng do API Gemini hoặc một lỗi nào đó liên quan đến request time_out nên model luôn trả lời : "Tôi không biết"
 
 ## Công nghệ sử dụng
 
