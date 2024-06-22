@@ -64,6 +64,7 @@ LLM-RAG (Language Learning Model - Retrieval-Augmented Generation) là một d�
 - `gemini_rag.py`: Mã nguồn cho RAG
 - `requirement.txt`: Các thư viện cần thiết
 
+⚠️ Do cách thiết kế giao diện là dùng `sidebar.checkbox`, nên sản phẩm gặp một lỗi nhỏ là phải chạy lại chương trình để trả ra kết quả. Nếu không, mô hình vẫn giữ nguyên ngữ cảnh của câu hỏi. Điều này có nghĩa là nếu bạn không chạy lại chương trình, mô hình có thể không cập nhật đúng ngữ cảnh mới mà bạn đã nhập vào.
 ## Đóng góp
 
 Chúng tôi hoan nghênh mọi đóng góp cho dự án này. Vui lòng mở issue hoặc tạo pull request để đóng góp.
