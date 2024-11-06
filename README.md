@@ -29,7 +29,7 @@ LLM-RAG
 ├── README.md
 └── requirement.txt
 ```
-markdown
+```markdown
 ## System Requirements
 
 * **Python:** 3.7+
