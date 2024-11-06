@@ -1,9 +1,9 @@
 langchain
-langchain-community
+langchain_community
 langchain_google_genai
 google-generativeai
-ipython
-textwrap
 streamlit
 dotenv
 google-api-python-client
+pypdf
+chromadb
