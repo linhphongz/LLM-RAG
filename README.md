@@ -45,7 +45,7 @@ LLM-RAG
 * `faiss-cpu` or `faiss-gpu` (depending on your computer configuration)
 * **Other required tools:**
 * `Docker` (if you want to deploy via Docker)
-
+```
 ## Installation and Deployment
 
 **1. Setting up a virtual environment:**
