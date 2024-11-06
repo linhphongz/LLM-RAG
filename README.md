@@ -1,4 +1,4 @@
-# **TravelMate - Chatbot integrating RAG (Retrieval Augmented Generation) and Vector Database for Travel**
+# **TravelMate - Chatbot integrating RAG (Retrieval Augmented Generation) and Function calling for Travel**
 
 ## **Project Description**
 TravelMate is an intelligent chatbot that uses the **RAG (Retrieval Augmented Generation)** architecture combined with **Vector Database** to answer travel questions based on PDF data. The project uses **Langchain** to create and manage the Vector Database, providing the ability to search and process questions from users. In addition, TravelMate also supports API calls through **function calling**, although the feature related to image and video processing is currently not fully developed.
